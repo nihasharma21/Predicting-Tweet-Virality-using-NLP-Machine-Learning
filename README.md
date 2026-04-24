@@ -82,7 +82,10 @@ This project analyzes ~183K tweets from the 2019 Australian Federal Election to 
 
 ---
 
+
+```markdown
 ## How to Run
+
 ```bash
 pip install -r requirements.txt
 jupyter notebook
