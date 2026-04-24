@@ -86,3 +86,10 @@ This project analyzes ~183K tweets from the 2019 Australian Federal Election to 
 ```bash
 pip install -r requirements.txt
 jupyter notebook
+
+## Contribution
+Originally completed as part of a team. This repository reflects my work on data preprocessing, feature engineering, and model development.
+
+- Built text preprocessing pipeline  
+- Engineered sentiment, emotion, and topic features  
+- Developed and evaluated Linear Regression and Gradient Boosting models  
