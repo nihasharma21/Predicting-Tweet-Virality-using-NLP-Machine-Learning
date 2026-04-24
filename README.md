@@ -70,7 +70,7 @@ This project analyzes ~183K tweets from the 2019 Australian Federal Election to 
 ---
 
 ## Presentation
-[View Final Presentation](./presentation/final_presentation.pptx)
+output/tweet_virality_analysis_report.pdf
 
 ---
 
